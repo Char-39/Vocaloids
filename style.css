@@ -1,0 +1,147 @@
+<style>
+* {}
+
+body {font-family: "Trebuchet MS", sans-serif;}
+
+header {
+  background-color: #61c7bd;
+  text-align: center;
+  font-size: 95px;
+  color: white;}
+
+nav {
+  float: left;
+  width: 11%;
+  height: 300px;
+  padding-bottom: 60px;
+
+}
+
+article {
+  float: right;
+  width: 85%;
+  height: 300px;
+  font-size: 30px;
+  margin-left: 20px;
+  padding-bottom: 25px;}
+
+#what-is {
+ height: 380px; }
+
+#fan-uta{
+ height: 380px; }
+
+
+section::after {
+  content: "";
+  display: table;
+  clear: both;}
+
+#intro {
+  padding: 5px;
+  border: 5px solid #61c7bd;}
+
+
+#miku {
+  background-color: rgba(97, 199, 189, 0.3);
+  padding: 25px;
+  border: 5px solid #61c7bd;
+  height: 460px;}
+
+#kaito {
+  background-color: rgba(11, 66, 145, 0.5);
+  padding: 25px;
+   border: 5px solid #134D9B;
+  padding-bottom: 45px;}
+
+
+#meiko {
+  background-color: rgba(148, 0, 11, 0.5);
+  padding: 25px;
+  border: 5px solid #94000B;
+  padding-bottom: 45px;}
+
+#len {
+ background-color: rgba(255, 224, 50, 0.5);
+  padding: 25px;
+  border: 5px solid #FFE032;
+  padding-bottom: 45px;
+height: 460px;}
+
+#rin {
+  background-color: rgba(254, 192, 6, 0.5);
+  padding: 25px;
+  border: 5px solid #FEC006;
+  padding-bottom: 45px;
+height: 460px;}
+
+#luka {
+  background-color: rgba(249, 202, 230, 0.5);
+  padding: 25px;
+  border: 5px solid #DE95C2;
+  padding-bottom: 45px;
+  height: 375px;}
+
+#gumi {
+  background-color: #C4F098;
+  padding: 25px;
+  border: 5px solid #FFB56A;
+  padding-bottom: 45px;}
+
+
+#other-vocaloids {
+  padding: 6px;
+  border: 5px solid;
+  display: flex;
+  gap:1px; }
+
+#synth {
+  background-color: #D33B51;
+  text-align: center;
+  font-size: 75px;
+  color: white;}
+
+#fan-uta {
+  padding: 5px;
+  border: 5px solid #D33B51;
+  height: 430px;}
+
+
+#teto {
+  background-color: rgba(211, 59, 81, 0.5);
+  padding: 25px;
+  border: 5px solid #D33B51;
+  padding-bottom: 45px;
+  height: 430px;}
+
+#rei {
+  background-color: rgba(221, 87, 5, 0.5);
+  padding: 25px;
+  border: 5px solid #DD5705;
+  padding-bottom: 45px;
+  height: 355px;}
+
+
+#neru {
+  background-color: rgba(247, 190, 50, 0.5);
+  padding: 25px;
+  border: 5px solid #F7BE32;
+  padding-bottom: 45px;
+  height: 420px;}
+
+#ca {
+  background-color: #8A8A8A;
+  padding: 25px;
+  border: 5px solid #000000;
+  padding-bottom: 45px;}
+
+#pop-song {
+  font-size: 22px;}
+
+#synth {
+  font-size: 95px;}
+
+
+
+
+</style>
